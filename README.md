@@ -3,28 +3,30 @@ Keyboard Layout for German Accents on US Keyboards
 
 For Mac OS X 10.4 - 10.6
 
-Quickly access ÄÖÜäöü by pressing ⌥ + AOUaou.
+Quickly access ÄÖÜäöü by pressing ⌥ + AOUaou.  
 The ß is provided by the original US Layout already with ⌥ + s.
 
 
 Installation
 ------------
 
-Copy the Bundle to `~/Library/Keyboard Layouts` or to
-`/Library/Keyboard Layouts` for a system-wide installation and actvate it in
-the Language preference pane.
+1. Download the bundle from <http://github.com/janv/usgerman/zipball/master>.
+2. Copy the bundle to to `/Library/Keyboard Layouts` for a system-wide installation
+   or to `~/Library/Keyboard Layouts` for the current user.
+3. Actvate it in the "Language & Text" preference pane.
+4. Log out and back in.
 
 Information
 -----------
 
 Inspired by the [USGerman layout](http://hci.rwth-aachen.de/USGermanKeyboard)
 by Prof. Dr. Jan Borchers from RWTH Aachen, but working in OSX 10.6 Snow
-Leopard. Made from scratch with [Ukelele]http://scripts.sil.org/Ukelele].
+Leopard. Made from scratch with [Ukelele](http://scripts.sil.org/Ukelele).
 
 License
----------------
+-------
 
-Copyright (c) 2009 Jan Varwig (http://jan.varwig.org/)
+Copyright (c) 2009 [Jan Varwig](http://jan.varwig.org/)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
