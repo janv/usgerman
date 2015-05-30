@@ -1,7 +1,7 @@
 Keyboard Layout for German Accents on US Keyboards
 ==================================================
 
-For Mac OS X 10.4 - 10.9
+For Mac OS X 10.4 and up
 
 Quickly access ÄÖÜäöü by pressing ⌥ + AOUaou.  
 The ß is provided by the original US Layout already with ⌥ + s.
