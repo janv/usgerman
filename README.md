@@ -10,7 +10,7 @@ The ß is provided by the original US Layout already with ⌥ + s.
 Installation
 ------------
 
-1. Download the bundle from <http://github.com/janv/usgerman/zipball/master>.
+1. Download the bundle from <https://github.com/janv/usgerman/zipball/master>.
 2. Copy the bundle to to `/Library/Keyboard Layouts` for a system-wide installation
    or to `~/Library/Keyboard Layouts` for the current user.
 3. Actvate it in the "Language & Text" preference pane.
@@ -26,7 +26,7 @@ Leopard. Made from scratch with [Ukelele](http://scripts.sil.org/Ukelele).
 License
 -------
 
-Copyright (c) 2009 [Jan Varwig](http://jan.varwig.org/)
+Copyright (c) 2009 [Jan Varwig](https://jan.varwig.org/)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
