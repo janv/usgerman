@@ -19,7 +19,7 @@ Installation
 Information
 -----------
 
-Inspired by the [USGerman layout](http://hci.rwth-aachen.de/USGermanKeyboard)
+Inspired by the [USGerman layout](https://hci.rwth-aachen.de/usgermankeyboard)
 by Prof. Dr. Jan Borchers from RWTH Aachen, but working in OSX 10.6 Snow
 Leopard. Made from scratch with [Ukelele](http://scripts.sil.org/Ukelele).
 
